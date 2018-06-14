@@ -1,5 +1,7 @@
 theme: minima
 
+title: Golden State Digital Network
+
 header_pages:
   - about.md
   - contact.md
