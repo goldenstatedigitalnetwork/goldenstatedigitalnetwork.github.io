@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 
 title: Golden State Digital Network
+description: this is a description of the GSDN
 
 header_pages:
   - about.md
