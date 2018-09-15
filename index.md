@@ -1,5 +1,8 @@
 
 
-# Information forthcoming...
+The GSDN supports peer-to-peer collaboration between organizations that are currently providing free or low-cost services to California libraries, archives, museums and other cultural heritage institutions, to support the lifecycle management and broad public access to unique digital collections -- leveraging existing statewide and national discovery systems.
+
+Through participation in the GSDN, service organizations can more effectively share resources, coordinate workflows, and forge new inter-institutional partnerships -- thereby augmenting each organization's individual capacities.
+
 
 
