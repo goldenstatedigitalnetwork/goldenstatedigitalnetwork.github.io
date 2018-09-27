@@ -1,12 +1,7 @@
 theme: minima
 
-title: Golden State Digital Network
-description: > 
- The GSDN is convened by the California Digital Library. Support for launching the GSDN was provided by the Knight Foundation, with funding administered through the Digital Public Library of America
+description: The GSDN is convened by the California Digital Library. Support for launching the GSDN was provided by the Knight Foundation, with funding administered through the Digital Public Library of America
 
-
-author: California Digital Library
-email: oacops@cdlib.org
 # social links
 # twitter_username: jekyllrb
 # github_username:  jekyll
