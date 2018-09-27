@@ -1,6 +1,9 @@
 theme: minima
 
-description: The GSDN is convened by the California Digital Library. Support for launching the GSDN was provided by the Knight Foundation, with funding administered through the Digital Public Library of America
+description: The GSDN is convened by the <a href="https://www.cdlib.org/">California Digital Library</a>. Support for launching the GSDN was provided by the Knight Foundation, with funding administered through the <a href="https://dp.la/">Digital Public Library of America</a>.
+<br>
+<br>
+<a href="https://www.cdlib.org/about/privacy.html">Privacy</a> and <a href="https://www.cdlib.org/about/accessibility.html">accessibility</a> policy
 
 # social links
 # twitter_username: jekyllrb
