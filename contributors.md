@@ -6,7 +6,18 @@ permalink: /contributors/
 
 ## Overview
 
-GSDN is a collaborative network of service organizations ("Affiliates"), partnering to help California cultural heritage institutions create, manage, and show off their unique digital collections. Individual GSDN Affiliates establish long-term partnerships with cultural heritage institutions to help with one or more aspects of making their collections digitally available. GSDN Affiliates set their own services, costs (free or at-cost), and geographic eligibility criteria.
+GSDN is a collaborative network of service organizations ("Affiliates"), partnering to help California cultural heritage institutions create, manage, and show off their unique digital collections: 
+
+* Balboa Park Online Collaborative (BPOC)
+* California Digital Library (CDL)
+* California State University Dominguez Hills Library
+* California State University Northridge Library
+* Los Angeles Public Library
+* San Francisco Public Library
+* University of California Merced Library
+* University of Southern California Libraries
+
+Individual GSDN Affiliates establish long-term partnerships with cultural heritage institutions to help with one or more aspects of making their collections digitally available. GSDN Affiliates set their own services, costs (free or at-cost), and geographic eligibility criteria.
 
 
 ## Available Services
@@ -17,17 +28,6 @@ GSDN is a collaborative network of service organizations ("Affiliates"), partner
 *   Metadata harvesting/aggregation through Calisphere and DPLA
 *   Long-term digital preservation
 *   Digital collections training and consulting
-
-The GSDN currently comprises the following Affiliates:
-
-* Balboa Park Online Collaborative (BPOC)
-* California Digital Library (CDL)
-* California State University Dominguez Hills Library
-* California State University Northridge Library
-* Los Angeles Public Library
-* San Francisco Public Library
-* University of California Merced Library
-* University of Southern California Libraries
 
 <a class="primary-link" href="mailto:oacops@cdlib.org">Contact us for more information</a>.
 
