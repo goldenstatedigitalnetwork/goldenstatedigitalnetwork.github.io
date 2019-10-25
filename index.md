@@ -6,7 +6,10 @@ Through participation in the GSDN, service organizations can more effectively sh
 
 The GSDN currently comprises the following Affiliates:
 
+* Balboa Park Online Collaborative (BPOC)
 * California Digital Library (CDL)
+* California State University Dominguez Hills Library
+* California State University Northridge Library
 * Los Angeles Public Library
 * San Francisco Public Library
 * University of California Merced Library
