@@ -20,8 +20,6 @@ GSDN is a collaborative network of service organizations ("Affiliates"), partner
 
 The GSDN currently comprises the following Affiliates:
 
-The GSDN currently comprises the following Affiliates:
-
 * Balboa Park Online Collaborative (BPOC)
 * California Digital Library (CDL)
 * California State University Dominguez Hills Library
