@@ -18,26 +18,23 @@ GSDN is a collaborative network of service organizations ("Affiliates"), partner
 *   Long-term digital preservation
 *   Digital collections training and consulting
 
-[See our list of GSDN Affiliates and services](../all) that they offer to cultural heritage institutions in their regional area.
+The GSDN currently comprises the following Affiliates:
 
-<a class="primary-link" href="mailto:oacops@cdlib.org">Contact us to get started</a>
+The GSDN currently comprises the following Affiliates:
 
+* Balboa Park Online Collaborative (BPOC)
+* California Digital Library (CDL)
+* California State University Dominguez Hills Library
+* California State University Northridge Library
+* Los Angeles Public Library
+* San Francisco Public Library
+* University of California Merced Library
+* University of Southern California Libraries
 
-
-## More digital collections help
-
-
-### Help making digital collections discoverable
-
-The CDL offers free metadata harvesting and aggregation services that confer statewide and national visibility through Calisphere and DPLA. 
-
-
-### Help preserving digital collections
-
-The University of Southern California Library provides a trusted digital preservation service that is available to organizations throughout the state.
+<a class="primary-link" href="mailto:oacops@cdlib.org">Contact us for more information</a>.
 
 
-### Help with everything!
+## Services Available Through California Revealed
 
 If your organization needs help with everything, we'd encourage you to also explore the **California Revealed** program. California Revealed is a State Library initiative to help California’s public libraries, in partnership with other local heritage groups, digitize, preserve, and provide online access to archival materials - books, newspapers, photographs, audiovisual recordings, and more - that tell the incredible stories of the Golden State. The program also provides free access and preservation services for existing digital collections, including technical advice and guidance, for partner organizations with in-house digitization programs
 
