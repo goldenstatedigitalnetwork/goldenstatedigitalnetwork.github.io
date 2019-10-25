@@ -4,17 +4,17 @@ title: About GSDN
 permalink: /about/
 ---
 
-## About GSDN ##
+## GSDN is a partnership of service organizations ##
 
 The GSDN is a free and voluntary collaborative network of service organizations ("Affiliates"). Affiliates are non-profit organizations that provide free or low-cost digital collections services to libraries, archives, museums, and other cultural heritage organizations. These services may include digitization and metadata creation, digital content management and hosting, digital content publishing, digital preservation, training, and consulting. The GSDN comprises a small but growing group of Affiliates throughout California (see p. 4).
 
-**How we're organized**
+## How we're organized ##
 
 The CDL serves as a convener of the GSDN. Through its role as a Digital Public Library of America (DPLA) Service Hub, the CDL also serves as conduit for aggregating digital collections from GSDN Affiliates (as well as individual institutions) at the statewide level through its Calisphere platform -- and at the national level through the DPLA platform.
 
 GSDN is governed by a voluntary Executive Committee, and initiates strategic activities through working groups.  Learn more about how we're organized: http://bit.ly/gsdn-op
 
-**How GSDN is related to California Revealed**
+## How GSDN is related to California Revealed ##
 
 GSDN coordinates closely with California Revealed, a California State Library initiative to help California's public libraries, in partnership with other local heritage groups, digitize, preserve, and serve online historically significant Californiana (e.g., books, documents, audiovisual recordings). 
  
