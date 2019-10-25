@@ -4,7 +4,7 @@ title: About GSDN
 permalink: /about/
 ---
 
-**About GSDN**
+##About GSDN
 
 The GSDN is a free and voluntary collaborative network of service organizations ("Affiliates"). Affiliates are non-profit organizations that provide free or low-cost digital collections services to libraries, archives, museums, and other cultural heritage organizations. These services may include digitization and metadata creation, digital content management and hosting, digital content publishing, digital preservation, training, and consulting. The GSDN comprises a small but growing group of Affiliates throughout California (see p. 4).
 
