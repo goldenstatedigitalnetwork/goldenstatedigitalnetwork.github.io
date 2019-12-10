@@ -1,0 +1,162 @@
+/* 
+ * ADDED VARIABLES
+ */
+
+$link-color: #005581;
+
+/*
+ * MINIMA THEME OVERRIDES
+ */
+
+
+// Headings
+
+.post-content h2, h3, h4, h5 { 
+    font-weight: 400;
+    margin-bottom: 1rem;
+}
+
+h1.post-title {font-size: 2.488rem;}
+
+.post-content h2 {
+    font-size: 2.074rem; 
+    margin-top: 2.074rem;
+}
+
+.post-content h3 {
+    font-size: 1.44rem;
+    font-weight: 300;
+    margin-top: 1.44rem;
+}
+
+.post-content h4 {
+    font-size: 1.2rem;
+    font-weight: 300;
+    margin-top: 1.2rem;
+}
+
+.post-content h5 {
+    font-weight: 500;
+    margin-top: 1.2rem;
+}
+
+
+// Links
+
+a {
+    color: $link-color;
+    text-decoration: none;
+
+    &:visited {
+        color: darken($link-color, 15%);
+    }
+
+    &:hover {
+    color: $text-color;
+    text-decoration: underline;
+    }
+}
+
+// Strong
+strong {
+    font-weight: 600;
+}
+
+
+// Header/footer
+
+.site-header {
+  border-bottom: 1px solid $grey-color;
+}
+
+.site-footer {
+    border-top: 1px solid $grey-color;
+}
+
+
+/*-------------------*/
+
+/*
+ * ADDED STYLES
+ */
+
+
+.hidden {
+    display: none;
+}
+
+.two-column {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 2vw;
+    margin: 40px 1vw 40px 1vw;
+}
+
+.two-column > div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 1px solid $grey-color;
+    padding: 2vw;
+    text-align: center;
+}
+
+#footer-nav {
+    margin: 20px 0;
+}
+
+#footer-nav ul {
+    margin: 20px 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+#footer-nav ul > li {
+    list-style-type: none;
+}
+
+#footer-nav ul > li > a
+{
+    display: inline-block;
+    min-height: 44px;
+}
+
+#logo {
+    width: 400px;
+    margin: 20px 0;
+}
+
+#check-mark {
+    width: 1.2em;
+}
+
+
+.link-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.link-box a {
+    display: inline-block;
+    border: 1px solid $link-color;
+    padding: 0.5em;
+}
+
+a.primary-link {
+    display: inline-block;
+    border: 1px solid $link-color;
+    padding: 0.5em;  
+}
+
+
+/*
+ * MEDIA QUERIES
+ */
+
+ @include media-query($on-palm) {
+   #footer-nav ul {
+     flex-direction: column;
+   }
+ }
