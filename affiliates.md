@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Become a GSDN Affiliate
+title: Join GSDN
 permalink: /affiliates/
 ---
+
+
 
 ## Why Join? 
 
@@ -28,6 +30,7 @@ There are no fees for participating in the GSDN.
 
 Affiliates agree to:
 
+
 *   Participate in GSDN governance and working group/task force activities.
 *   Maintain a current profile of service offerings on the GSDN website.
 *   Respond to inquiries received via the GSDN website and/or contact e-mail regarding services in a timely manner.
@@ -38,7 +41,7 @@ Affiliates agree to:
 
 ## Interested in joining?
 
-<a class="primary-link" href="mailto:oacops@cdlib.org">Contact us for more information</a>
+<a class="primary-link" href="./">Contact us for more information</a>
 
 
 ---
@@ -46,7 +49,10 @@ Affiliates agree to:
 
 ## GSDN Affiliate Workspace
 
+
+
 *   [Policies and operating principles](https://docs.google.com/document/d/1MmLI7bESkYuM40o8PEBogzmTpwS9M5qLIYdsPXGVlqY/edit#)
 *   Mailing list: [GSDN-ALL-L@listserv.ucop.edu](mailto:GSDN-ALL-L@listserv.ucop.edu) (restricted to Affiliates)
 *   [Google Drive workspace](https://drive.google.com/drive/folders/0B0u7vIrviMsaMkY3T2pXZGZsYms) (restricted to Affiliates)
+
 

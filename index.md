@@ -1,24 +1,39 @@
+---
+layout: home
+title: Golden State Digital Network
+permalink: /
+---
+
+The Golden State Digital Network helps California cultural heritage institutions create, manage, and show off their unique digital collections.
+
+<div class="two-column">
+    <div>
+        <h2>Do you provide digital collections services?</h2>
+        <p> If your organization provides digital collections services to local partners, GSDN affiliation can cut costs and extend your capabilities.</p>
+        <div class="link-box">
+            <a href="affiliates">How to join</a>
+        </div>
+    </div>
+    <div>
+        <h2>Do you need digital collections services?</h2>
+        <p>If your organization is in need of digital collections services, GSDN providers are here to help.</p>
+        <div class="link-box">
+            <a href="contributors">How to request services</a>
+        </div>
+    </div>
+</div>
 
 
-The GSDN supports peer-to-peer collaboration between organizations that are currently providing free or low-cost services to California libraries, archives, museums and other cultural heritage institutions, to support the lifecycle management and broad public access to unique digital collections -- leveraging existing statewide and national discovery systems.
 
-Through participation in the GSDN, service organizations can more effectively share resources, coordinate workflows, and forge new inter-institutional partnerships -- thereby augmenting each organization's individual capacities.
+GSDN providers offer free and low-cost digital collections services such as:
 
-The GSDN currently comprises the following Affiliates:
 
-* Balboa Park Online Collaborative (BPOC)
-* California Digital Library (CDL)
-* California State University Dominguez Hills Library
-* California State University Northridge Library
-* Los Angeles Public Library
-* San Francisco Public Library
-* University of California Merced Library
-* University of Southern California Libraries
+*   Digitization 
+*   Metadata creation 
+*   Content management and hosting
+*   Long-term preservation
+*   Discovery through Calisphere and DPLA
+*   Training and consulting
 
-The CDL serves as a convener of the GSDN. Through its role as a Digital Public Library of America (DPLA) Service Hub, the CDL also serves as conduit for aggregating digital collections from GSDN Affiliates (as well as individual institutions) at the statewide level through its Calisphere platform -- and at the national level through the DPLA platform.
-
-<hr>
-
- <a href="mailto:oacops@cdlib.org">Contact us</a>
-
+[See all of the services we can provide](all)
 

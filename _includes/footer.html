@@ -3,8 +3,18 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
+<!--    <h2 class="footer-heading">{{ site.title | escape }}</h2>-->
+    <div>
+        <p>{{- site.description | escape -}}</p>
+        <nav id="footer-nav">
+            <ul>
+                <li><a href="https://www.cdlib.org/about/privacy.html">Privacy Policy</a></li>
+                <li><a href="https://www.cdlib.org/about/accessibility.html">Accessibility Policy</a></li>
+                <li><a href="oacops@cdlib.org">Contact Us</a></li>
+            </ul>
+        </nav>
+    </div>      
+<!--
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
@@ -26,9 +36,9 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
       </div>
     </div>
+-->
 
   </div>
 
