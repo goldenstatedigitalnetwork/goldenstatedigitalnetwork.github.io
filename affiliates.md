@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Join GSDN
+title: Become a GSDN Affiliate
 permalink: /affiliates/
 ---
 
