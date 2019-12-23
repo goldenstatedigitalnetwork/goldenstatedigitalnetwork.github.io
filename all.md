@@ -52,7 +52,7 @@ permalink: /all/
             <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
             <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
             <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
-            <td></td>
+            <td>(<img alt="check mark" id="check-mark" src="../assets/check-solid.svg">)</td>
             <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
         </tr>
         <tr>
@@ -61,7 +61,7 @@ permalink: /all/
             <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
             <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
             <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
-            <td></td>
+            <td>(<img alt="check mark" id="check-mark" src="../assets/check-solid.svg">)</td>
             <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
         </tr>
     </tbody>
