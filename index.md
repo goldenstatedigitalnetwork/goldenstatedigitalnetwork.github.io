@@ -9,7 +9,7 @@ The Golden State Digital Network helps California cultural heritage institutions
 <div class="two-column">
     <div>
         <h2>Do you provide digital collections services?</h2>
-        <p> If your organization provides digital collections services to local partners, GSDN affiliation can cut costs and extend your capabilities.</p>
+        <p> If your organization provides digital collections services to local partners, GSDN affiliation can extend your capabilities.</p>
         <div class="link-box">
             <a href="affiliates">How to join</a>
         </div>
