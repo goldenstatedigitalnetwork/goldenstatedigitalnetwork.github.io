@@ -4,7 +4,6 @@ title: All Services and Providers
 permalink: /all/
 ---
 
-<h2 id="service-table-heading">Summary of service offerings</h2>
 <table aria-labelledby="service-table-heading">
     <thead>
         <tr>
@@ -100,13 +99,13 @@ Service, eligibility, and cost details below.
 
 ## Service and Provider Details
 
-<h2 id="BPOC">Balboa Park Online Collaborative</h3>
+<h2 id="BPOC">Balboa Park Online Collaborative</h2>
 
 #### Services offered
 
 Forthcoming
 
-<h2 id="CDL">California Digital Library</h3>
+<h2 id="CDL">California Digital Library</h2>
 
 
 #### Services offered
