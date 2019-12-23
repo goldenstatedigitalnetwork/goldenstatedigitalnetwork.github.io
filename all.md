@@ -128,7 +128,7 @@ Forthcoming
 
 Forthcoming
 
-<h2 id="LAPL">Los Angeles Public Library</h3>
+<h2 id="LAPL">Los Angeles Public Library</h2>
 
 
 #### Services Offered
