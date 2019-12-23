@@ -100,13 +100,13 @@ Service, eligibility, and cost details below.
 
 ## Service and Provider Details
 
-<h3 id="BPOC">Balboa Park Online Collaborative</h3>
+<h2 id="BPOC">Balboa Park Online Collaborative</h3>
 
 #### Services offered
 
 Forthcoming
 
-<h3 id="CDL">California Digital Library</h3>
+<h2 id="CDL">California Digital Library</h3>
 
 
 #### Services offered
@@ -122,19 +122,19 @@ Anywhere in California
 
 No cost
 
-<h3 id="CSUDH">California State University Dominguez Hills Library</h3>
+<h2 id="CSUDH">California State University Dominguez Hills Library</h3>
 
 #### Services offered
 
 Forthcoming
 
-<h3 id="CSUN">California State University Northridge Library</h3>
+<h2 id="CSUN">California State University Northridge Library</h3>
 
 #### Services offered
 
 Forthcoming
 
-<h3 id="LAPL">Los Angeles Public Library</h3>
+<h2 id="LAPL">Los Angeles Public Library</h3>
 
 
 #### Services Offered
@@ -155,7 +155,7 @@ Los Angeles City or County
 *   Training and consultation on project planning, collection management, etc. are available at no cost.
 
 
-<h3 id="SFPL">San Francisco Public Library</h3>
+<h2 id="SFPL">San Francisco Public Library</h3>
 
 
 #### Services offered
@@ -176,7 +176,7 @@ SF Bay Area
 No cost
 
 
-<h3 id="UC-Merced">University of California Merced Library</h3>
+<h2 id="UC-Merced">University of California Merced Library</h3>
 
 
 #### Services offered
@@ -203,7 +203,7 @@ No cost
 *   **Non-grant funded projects:** digitization services are available on a cost recovery basis.
 
 
-<h3 id="USC">University of Southern California Library</h3>
+<h2 id="USC">University of Southern California Library</h3>
 
 
 #### Services Offered
