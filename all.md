@@ -79,7 +79,7 @@ Service, eligibility, and cost details below.
 
 #### Services offered
 
-Statewide/National-Level Exposure (Calisphere and DPLA)
+Statewide/National-Level Aggregation (Calisphere and DPLA)
 
 #### Eligibility
 
@@ -143,6 +143,7 @@ No cost
 *   Digital asset management/hosting
 *   Metadata creation
 *   Preservation
+*   Statewide/National-Level Aggregation (via CDL's Calisphere and DPLA services)
 *   Training (digitization, rights management, personal archiving and other programs)
 *   Consulting on developing a digital collections program
 
@@ -168,6 +169,7 @@ No cost
 *   Digital asset management/hosting
 *   Metadata creation
 *   Preservation
+*   Statewide/National-Level Aggregation (via CDL's Calisphere and DPLA services)
 *   Training and Consultation
 
 
