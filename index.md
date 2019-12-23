@@ -30,8 +30,8 @@ GSDN providers offer free and cost recovery-based digital collections services s
 
 *   Digitization 
 *   Metadata creation 
-*   Content management and hosting
-*   Long-term preservation
+*   Digital asset management and hosting
+*   Digital preservation
 *   Discovery through Calisphere and DPLA
 *   Training and consulting
 
