@@ -10,7 +10,7 @@ permalink: /all/
            <th scope="column">Provider</th>
            <th scope="column">Digitization</th>
            <th scope="column">Metadata Creation</th>
-           <th scope="column">Content Management and Hosting</th>
+           <th scope="column">Digital Asset Management / Hosting</th>
            <th scope="column">Preservation</th>
            <th scope="column">Statewide / National Aggregation</th>
            <th scope="column">Training and Consulting</th>
@@ -19,12 +19,12 @@ permalink: /all/
     <tbody>
         <tr>
             <th scope="row"><a href="#BPOC">Balboa Park Online Collaborative</a></th>
+            <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
+            <td></td>
+            <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
             <td></td>
             <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
         </tr>
         <tr>
             <th scope="row"><a href="#CDL">California Digital Library</a></th>
@@ -33,25 +33,25 @@ permalink: /all/
             <td></td>
             <td></td>
             <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
-            <td></td>
+            <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
         </tr>
         <tr>
             <th scope="row"><a href="#CSUDH">California State University Dominguez Hills Library</a></th>
+            <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
             <td></td>
+            <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
             <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>(<img alt="check mark" id="check-mark" src="../assets/check-solid.svg">)</td>
+            <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
         </tr>
         <tr>
             <th scope="row"><a href="#CSUN">California State University Northridge Library</a></th>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
+            <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
+            <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
+            <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
+            <td>(<img alt="check mark" id="check-mark" src="../assets/check-solid.svg">)</td>
+            <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
         </tr>
         <tr>
             <th scope="row"><a href="#LAPL">Los Angeles Public Library</a></th>
@@ -132,6 +132,7 @@ permalink: /all/
 *   Digitization
 *   Digital asset management/hosting
 *   Training (digital project planning)
+*   Statewide/National-Level Aggregation (via CDL's Calisphere and DPLA services)
 *   Consulting on developing a digital collections program
 
 #### Eligibility
@@ -151,6 +152,7 @@ permalink: /all/
 *   Metadata creation/remediation
 *   Digital asset management/hosting
 *   Digital preservation
+*   Statewide/National-Level Aggregation (via CDL's Calisphere and DPLA services)
 *   Consulting on developing a digital collections program
 
 #### Eligibility
