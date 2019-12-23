@@ -98,9 +98,9 @@ permalink: /all/
 
 #### Services offered
 
-* Digitization
-* Digital asset management/hosting
-* Consulting on developing a digital collections program
+*   Digitization
+*   Digital asset management/hosting
+*   Consulting on developing a digital collections program
 
 #### Eligibility
 
@@ -129,13 +129,37 @@ permalink: /all/
 
 #### Services offered
 
-Forthcoming
+*   Digitization
+*   Digital asset management/hosting
+*   Training (digital project planning)
+*   Consulting on developing a digital collections program
+
+#### Eligibility
+
+*   Available to cultural heritage organizations in the South Bay area of Los Angeles and statewide on specific topics
+
+#### Costs
+
+*   Digitization services are available for grant funded projects or cost recovery basis
+
 
 <h2 id="CSUN">California State University Northridge Library</h2>
 
 #### Services offered
 
-Forthcoming
+*   Digitization
+*   Metadata creation/remediation
+*   Digital asset management/hosting
+*   Digital preservation
+*   Consulting on developing a digital collections program
+
+#### Eligibility
+*   Available to cultural heritage organizations in the San Fernando and Santa Clarita Valleys
+
+
+#### Costs
+
+*   Digitization and metadata services, with digital asset management/hosting, are available for grant funded projects or on a cost recovery basis. Digital preservation services are offered with asset management/hosting at no cost. Training and consultation available at no cost
 
 <h2 id="LAPL">Los Angeles Public Library</h2>
 
