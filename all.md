@@ -131,7 +131,7 @@ permalink: /all/
 #### Services offered
 
 *   Digitization
-*   Digital asset management/hosting
+*   Digital asset management/hosting (CONTENTdm)
 *   Training (digital project planning)
 *   Statewide/National-Level Aggregation (via CDL's Calisphere and DPLA services)
 *   Consulting on developing a digital collections program
@@ -151,7 +151,7 @@ permalink: /all/
 
 *   Digitization
 *   Metadata creation/remediation
-*   Digital asset management/hosting
+*   Digital asset management/hosting (CONTENTdm)
 *   Digital preservation
 *   Statewide/National-Level Aggregation (via CDL's Calisphere and DPLA services)
 *   Consulting on developing a digital collections program
@@ -213,7 +213,7 @@ permalink: /all/
 
 
 *   Digitization (self-serve, using Digitization Center)
-*   Digital asset management/hosting
+*   Digital asset management/hosting (Nuxeo)
 *   Metadata creation
 *   Preservation
 *   Statewide/National-Level Aggregation (via CDL's Calisphere and DPLA services)
@@ -238,7 +238,7 @@ permalink: /all/
 #### Services Offered
 
 *   Digitization
-*   Digital asset management/hosting
+*   Digital asset management/hosting (CONTENTdm)
 *   Metadata creation
 *   Preservation
 *   Statewide/National-Level Aggregation (via CDL's Calisphere and DPLA services)
