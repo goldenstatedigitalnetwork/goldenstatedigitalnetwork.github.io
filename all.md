@@ -14,7 +14,7 @@ permalink: /all/
            <th scope="column">Metadata Creation</th>
            <th scope="column">Content Management and Hosting</th>
            <th scope="column">Preservation</th>
-           <th scope="column">Statewide / National Exposure</th>
+           <th scope="column">Statewide / National Aggregation</th>
            <th scope="column">Training and Consulting</th>
         </tr>
     </thead>
