@@ -98,23 +98,32 @@ permalink: /all/
 
 #### Services offered
 
-Forthcoming
-
-<h2 id="CDL">California Digital Library</h2>
-
-
-#### Services offered
-
-Statewide/National-Level Aggregation (Calisphere and DPLA)
+* Digitization
+* Digital asset management/hosting
+* Consulting on developing a digital collections program
 
 #### Eligibility
 
-Anywhere in California
+*   Available to any cultural heritage organization or individual in the US
 
+#### Costs
+*   Digitization and digital asset management/hosting services are provided on a cost recovery basis
+
+
+<h2 id="CDL">California Digital Library</h2>
+
+#### Services offered
+
+*   Statewide/National-Level Aggregation (Calisphere and DPLA)
+
+#### Eligibility
+
+*   Available to any cultural heritage organization in California
 
 #### Costs
 
-No cost
+*   No cost
+
 
 <h2 id="CSUDH">California State University Dominguez Hills Library</h2>
 
@@ -140,7 +149,7 @@ Forthcoming
 
 #### Eligibility
 
-Los Angeles City or County
+*   Available to any cultural heritage organization in Los Angeles City or County
 
 #### Costs
 
@@ -162,12 +171,12 @@ Los Angeles City or County
 
 #### Eligibility
 
-SF Bay Area
+*   Available to any cultural heritage organization in the San Francisco Bay Area
 
 
 #### Costs
 
-No cost
+*   No cost
 
 
 <h2 id="UC-Merced">University of California Merced Library</h2>
@@ -187,8 +196,7 @@ No cost
 
 #### Eligibility
 
-*   San Joaquin Valley/Sierra Nevada Region
-*   Aligned with UC Merced research priorities
+*   Available to any cultural heritage organization in the San Joaquin Valley/Sierra Nevada Region, where the digital collections align with UC Merced research priorities
 
 
 #### Costs
@@ -212,7 +220,7 @@ No cost
 
 #### Eligibility
 
-Anywhere in California
+*   Available to any cultural heritage organization in California
 
 
 #### Costs
