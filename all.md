@@ -93,11 +93,6 @@ permalink: /all/
 </table>
 
 
-GSDN Affiliates offer services to libraries, archives, museums, historical societies, and other cultural heritage organizations.
-
-Service, eligibility, and cost details below.
-
-## Service and Provider Details
 
 <h2 id="BPOC">Balboa Park Online Collaborative</h2>
 
@@ -121,13 +116,13 @@ Anywhere in California
 
 No cost
 
-<h2 id="CSUDH">California State University Dominguez Hills Library</h3>
+<h2 id="CSUDH">California State University Dominguez Hills Library</h2>
 
 #### Services offered
 
 Forthcoming
 
-<h2 id="CSUN">California State University Northridge Library</h3>
+<h2 id="CSUN">California State University Northridge Library</h2>
 
 #### Services offered
 
@@ -154,7 +149,7 @@ Los Angeles City or County
 *   Training and consultation on project planning, collection management, etc. are available at no cost.
 
 
-<h2 id="SFPL">San Francisco Public Library</h3>
+<h2 id="SFPL">San Francisco Public Library</h2>
 
 
 #### Services offered
@@ -175,7 +170,7 @@ SF Bay Area
 No cost
 
 
-<h2 id="UC-Merced">University of California Merced Library</h3>
+<h2 id="UC-Merced">University of California Merced Library</h2>
 
 
 #### Services offered
@@ -202,7 +197,7 @@ No cost
 *   **Non-grant funded projects:** digitization services are available on a cost recovery basis.
 
 
-<h2 id="USC">University of Southern California Library</h3>
+<h2 id="USC">University of Southern California Library</h2>
 
 
 #### Services Offered
