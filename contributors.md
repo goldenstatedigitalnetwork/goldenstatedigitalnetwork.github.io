@@ -32,7 +32,7 @@ GSDN is a collaborative network of service organizations ("Affiliates"), partner
 
 ### Help making digital collections discoverable
 
-The CDL offers free metadata harvesting and aggregation services that confer statewide and national visibility through Calisphere and DPLA. 
+The CDL offers free metadata harvesting and aggregation services that can provide statewide and national visibility for your organization's collections, through Calisphere and DPLA. 
 
 
 ### Help preserving digital collections
