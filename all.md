@@ -115,6 +115,7 @@ permalink: /all/
 #### Services offered
 
 *   Statewide/National-Level Aggregation (Calisphere and DPLA)
+*   Consulting on sharing finding aids and digital collections via the Online Archive of California (OAC), Calisphere, and DPLA
 
 #### Eligibility
 
