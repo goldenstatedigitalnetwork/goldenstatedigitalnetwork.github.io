@@ -6,7 +6,7 @@ permalink: /contributors/
 
 ## Overview
 
-GSDN is a collaborative network of service organizations ("Affiliates"), partnering to help California cultural heritage institutions create, manage, and show off their unique digital collections. Individual GSDN Affiliates establish long-term partnerships with cultural heritage institutions to help with one or more aspects of making their collections digitally available. GSDN Affiliates set their own services, costs (free or at-cost), and geographic eligibility criteria.
+GSDN is a collaborative network of service organizations (["Affiliates"](../all)), partnering to help California cultural heritage institutions create, manage, and show off their unique digital collections. Individual GSDN Affiliates establish long-term partnerships with cultural heritage institutions to help with one or more aspects of making their collections digitally available. GSDN Affiliates set their own services, costs (free or at-cost), and geographic eligibility criteria.
 
 
 ## Available Services
@@ -19,9 +19,6 @@ GSDN is a collaborative network of service organizations ("Affiliates"), partner
 *   Metadata harvesting/aggregation through Calisphere and DPLA
 *   Long-term digital preservation
 *   Digital collections training and consulting
-
-[See our list of GSDN Affiliates and services](../all) that they offer to cultural heritage institutions in their regional area.
-
 
 <a class="primary-link" href="./">Contact us to get started</a>
 
