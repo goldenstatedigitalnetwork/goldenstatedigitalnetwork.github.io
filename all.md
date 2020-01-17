@@ -128,7 +128,7 @@ permalink: /all/
 
 <h2 id="CSUDH">California State University Dominguez Hills Library</h2>
 
-#### Services offered
+### Services offered
 
 *   Digitization
 *   Digital asset management/hosting (CONTENTdm)
@@ -136,18 +136,18 @@ permalink: /all/
 *   Statewide/National-Level Aggregation (via CDL's Calisphere and DPLA services)
 *   Consulting on developing a digital collections program
 
-#### Eligibility
+### Eligibility
 
 *   Available to cultural heritage organizations in the South Bay area of Los Angeles and statewide on specific topics
 
-#### Costs
+### Costs
 
 *   Digitization services are available for grant funded projects or cost recovery basis
 
 
 <h2 id="CSUN">California State University Northridge Library</h2>
 
-#### Services offered
+### Services offered
 
 *   Digitization
 *   Metadata creation/remediation
@@ -156,29 +156,29 @@ permalink: /all/
 *   Statewide/National-Level Aggregation (via CDL's Calisphere and DPLA services)
 *   Consulting on developing a digital collections program
 
-#### Eligibility
+### Eligibility
 *   Available to cultural heritage organizations in the San Fernando and Santa Clarita Valleys
 
 
-#### Costs
+### Costs
 
 *   Digitization and metadata services, with digital asset management/hosting, are available for grant funded projects or on a cost recovery basis. Digital preservation services are offered with asset management/hosting at no cost. Training and consultation available at no cost
 
 <h2 id="LAPL">Los Angeles Public Library</h2>
 
 
-#### Services Offered
+### Services Offered
 
 *   Digitization
 *   Metadata creation
 *   Preservation
 *   Training and Consultation
 
-#### Eligibility
+### Eligibility
 
 *   Available to any cultural heritage organization in Los Angeles City or County
 
-#### Costs
+### Costs
 
 
 *   Digitization services are available to organizations on a cost recovery basis. 
@@ -188,7 +188,7 @@ permalink: /all/
 <h2 id="SFPL">San Francisco Public Library</h2>
 
 
-#### Services offered
+### Services offered
 
 
 
@@ -196,12 +196,12 @@ permalink: /all/
 *   Training and Consultation
 
 
-#### Eligibility
+### Eligibility
 
 *   Available to any cultural heritage organization in the San Francisco Bay Area
 
 
-#### Costs
+### Costs
 
 *   No cost
 
@@ -209,7 +209,7 @@ permalink: /all/
 <h2 id="UC-Merced">University of California Merced Library</h2>
 
 
-#### Services offered
+### Services offered
 
 
 *   Digitization (self-serve, using Digitization Center)
@@ -221,12 +221,12 @@ permalink: /all/
 *   Consulting on developing a digital collections program
 
 
-#### Eligibility
+### Eligibility
 
 *   Available to any cultural heritage organization in the San Joaquin Valley/Sierra Nevada Region, where the digital collections align with UC Merced research priorities
 
 
-#### Costs
+### Costs
 
 *   **Grant funded projects:** planning and consulting services for these digital projects are done at no cost. As part of the grant planning, UC Merced determines the digitization, metadata creation, access and preservation costs. Generally, costs associated with digitization, access to collections and preservation are covered by the grant.
 *   **Non-grant funded projects:** digitization services are available on a cost recovery basis.
@@ -235,7 +235,7 @@ permalink: /all/
 <h2 id="USC">University of Southern California Library</h2>
 
 
-#### Services Offered
+### Services Offered
 
 *   Digitization
 *   Digital asset management/hosting (CONTENTdm)
@@ -245,12 +245,12 @@ permalink: /all/
 *   Training and Consultation
 
 
-#### Eligibility
+### Eligibility
 
 *   Available to any cultural heritage organization in California
 
 
-#### Costs
+### Costs
 
 *   **Grant funded projects:** Planning and consulting services for these digital project are done at no cost. As part of the grant planning USC will determine the digitization, metadata creation, access and preservation costs. Generally costs associated with digitization, access to collections and preservation are generally covered by the grant.
 *   **Non-grant funded projects:** Services are available to organizations on a cost recovery basis. This includes consultation on project planning, including project costs and project management in addition to digitization and metadata services.
