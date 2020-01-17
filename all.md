@@ -35,6 +35,15 @@ permalink: /all/
             <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
             <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
         </tr>
+                <tr>
+            <th scope="row"><a href="#CSL">California State Library (California Revealed)</a></th>
+            <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
+            <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
+            <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
+            <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
+            <td>(<img alt="check mark" id="check-mark" src="../assets/check-solid.svg">)</td>
+            <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
+        </tr>
         <tr>
             <th scope="row"><a href="#CSUDH">California State University Dominguez Hills Library</a></th>
             <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
