@@ -96,32 +96,32 @@ permalink: /all/
 
 <h2 id="BPOC">Balboa Park Online Collaborative</h2>
 
-#### Services offered
+### Services offered
 
 *   Digitization
 *   Digital asset management/hosting
 *   Consulting on developing a digital collections program
 
-#### Eligibility
+### Eligibility
 
 *   Available to any cultural heritage organization or individual in the US
 
-#### Costs
+### Costs
 *   Digitization and digital asset management/hosting services are provided on a cost recovery basis
 
 
 <h2 id="CDL">California Digital Library</h2>
 
-#### Services offered
+### Services offered
 
 *   Statewide/National-Level Aggregation (Calisphere and DPLA)
 *   Consulting on sharing finding aids and digital collections via the Online Archive of California (OAC), Calisphere, and DPLA
 
-#### Eligibility
+### Eligibility
 
 *   Available to any cultural heritage organization in California
 
-#### Costs
+### Costs
 
 *   No cost
 
