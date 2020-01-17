@@ -135,6 +135,23 @@ permalink: /all/
 *   No cost
 
 
+<h2 id="CSL">California State Library (California Revealed)</h2>
+
+## Services offered
+*   Digitization
+*   Metadata creation
+*   Digital asset management/hosting (Islandora)
+*   Preservation
+*   Statewide/National-Level Aggregation (via CDL’s Calisphere and DPLA services)
+*   Training and Consultation
+
+## Eligibility
+*   Available to any non-profit organization in California for collections related to California history
+
+## Costs
+*   No cost
+
+
 <h2 id="CSUDH">California State University Dominguez Hills Library</h2>
 
 ### Services offered
