@@ -15,4 +15,4 @@ Affiliates offer the following range of services:
 *   Long-term digital preservation
 *   Digital collections training and consulting
 
-<a class="primary-link" href="./">Contact us to get started</a>
+<a class="primary-link" href="mailto:gsdn@cdlib.org">Contact us to get started</a>
