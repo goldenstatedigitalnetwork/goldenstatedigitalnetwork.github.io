@@ -18,12 +18,12 @@ Affiliation is open to non-profit organizations that provide free or low-cost se
 
 ## Service Offerings
 
-Your organization decides what service(s) to offer and sets the terms (i.e.., eligibility, and whether free or cost-recovery).  While some Affiliates offer the full range of services, others offer specific services, such as digitization training and a self-service scanning lab. 
+Your organization decides what service(s) to offer and sets the terms (i.e., eligibility, and whether free or cost-recovery).  While some Affiliates offer the full range of services, others offer specific services, such as digitization training and a self-service scanning lab. 
 
 
 ## Cost
 
-There are no fees for participating in the GSDN.
+There are no fees for participating as a GSDN Affiliate.
 
 
 ## Terms of Participation
@@ -36,7 +36,7 @@ Affiliates agree to:
 *   Respond to inquiries received via the GSDN website and/or contact e-mail regarding services in a timely manner.
 *   Agree to adopt generally accepted best practices for shareable metadata, content creation and digital preservation.
 *   If providing collection hosting or aggregation services, and if the content can be programmatically shared (e.g., via an API, through OAI-PMH): reflect [DPLA/Calisphere terms of service](https://help.oac.cdlib.org/helpdesk/attachments/9019958245) in your agreements with organizations that you serve, and make metadata and thumbnails available for harvesting by CDL (for further distribution to Calisphere and DPLA).
-*   Provide 90 days notification to Service Network if your organization is no longer able to participate in GSDN.
+*   Provide 90 days notification to the GSDN Executive Committee if your organization is no longer able to participate as an Affiliate.
 
 
 ## Interested in joining?
