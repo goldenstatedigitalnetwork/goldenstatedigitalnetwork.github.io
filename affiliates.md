@@ -41,7 +41,7 @@ Affiliates agree to:
 
 ## Interested in joining?
 
-<a class="primary-link" href="./">Contact us for more information</a>
+<a class="primary-link" href="mailto:gsdn@cdlib.org">Contact us for more information</a>
 
 
 ---
