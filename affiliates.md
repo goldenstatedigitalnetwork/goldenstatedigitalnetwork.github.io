@@ -39,7 +39,7 @@ Affiliates agree to:
 *   Provide 90 days notification to the GSDN Executive Committee if your organization is no longer able to participate as an Affiliate.
 
 
-## Interested in joining?
+## Interested in Joining?
 
 <a class="primary-link" href="mailto:gsdn@cdlib.org">Contact us for more information</a>
 
