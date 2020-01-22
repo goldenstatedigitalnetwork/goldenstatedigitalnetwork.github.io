@@ -4,7 +4,7 @@ title: Golden State Digital Network
 permalink: /
 ---
 
-The Golden State Digital Network (GSDN) helps California cultural heritage institutions create, manage, and show off their unique digital collections.
+The GSDN helps California cultural heritage institutions create, manage, and show off their unique digital collections.
 
 <div class="two-column">
     <div>
