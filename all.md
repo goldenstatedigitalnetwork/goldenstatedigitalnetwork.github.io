@@ -105,7 +105,7 @@ permalink: /all/
 
 <h2 id="BPOC">Balboa Park Online Collaborative</h2>
 
-### Services offered
+### Services Offered
 
 *   Digitization
 *   Digital asset management/hosting
@@ -121,7 +121,7 @@ permalink: /all/
 
 <h2 id="CDL">California Digital Library</h2>
 
-### Services offered
+### Services Offered
 
 *   Statewide/National-Level Aggregation (Calisphere and DPLA)
 *   Consulting on sharing finding aids and digital collections via the Online Archive of California (OAC), Calisphere, and DPLA
@@ -137,7 +137,7 @@ permalink: /all/
 
 <h2 id="CSL">California State Library (California Revealed)</h2>
 
-## Services offered
+## Services Offered
 *   Digitization
 *   Metadata creation
 *   Digital asset management/hosting (Islandora)
@@ -154,7 +154,7 @@ permalink: /all/
 
 <h2 id="CSUDH">California State University Dominguez Hills Library</h2>
 
-### Services offered
+### Services Offered
 
 *   Digitization
 *   Digital asset management/hosting (CONTENTdm)
@@ -173,7 +173,7 @@ permalink: /all/
 
 <h2 id="CSUN">California State University Northridge Library</h2>
 
-### Services offered
+### Services Offered
 
 *   Digitization
 *   Metadata creation/remediation
@@ -214,7 +214,7 @@ permalink: /all/
 <h2 id="SFPL">San Francisco Public Library</h2>
 
 
-### Services offered
+### Services Offered
 
 
 
@@ -235,7 +235,7 @@ permalink: /all/
 <h2 id="UC-Merced">University of California Merced Library</h2>
 
 
-### Services offered
+### Services Offered
 
 
 *   Digitization (self-serve, using Digitization Center)
