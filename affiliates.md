@@ -8,7 +8,7 @@ permalink: /affiliates/
 
 ## Why Join? 
 
-Leverage the GSDN network of Affiliates to extend the impact and reach of your services. Offer the services at which you excel, and let other Affiliates handle the rest. Share resources, coordinate workflows, and forge new inter-institutional partnerships with other Affiliates
+Leverage the GSDN network of Affiliates to extend the impact and reach of your services. Offer the services at which you excel, and let other Affiliates handle the rest. Share resources, coordinate workflows, and forge new inter-institutional partnerships with other Affiliates.
 
 
 ## Eligibility
@@ -23,7 +23,7 @@ Your organization decides what service(s) to offer and sets the terms (i.e., eli
 
 ## Cost
 
-There are no fees for participating as a GSDN Affiliate.
+There are no fees for participating as an Affiliate.
 
 
 ## Terms of Participation
