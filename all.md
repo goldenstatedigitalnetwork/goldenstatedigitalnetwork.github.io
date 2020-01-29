@@ -4,7 +4,7 @@ title: All Services and Providers
 permalink: /all/
 ---
 <!--<h2 id="service-table-heading">Summary of service offerings</h2>-->
-<table aria-labelledby="service-table-heading">
+<table>
     <thead>
         <tr>
            <th scope="column">Provider</th>
