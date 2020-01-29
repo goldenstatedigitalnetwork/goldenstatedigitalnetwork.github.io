@@ -18,7 +18,7 @@ Affiliation is open to non-profit organizations that provide free or low-cost se
 
 ## Service Offerings
 
-Your organization decides what service(s) to offer and sets the terms (i.e., eligibility, and whether free or cost-recovery).  While some Affiliates offer the full range of services, others offer specific services, such as digitization training and a self-service scanning lab. 
+Your organization decides what service(s) to offer, and the terms for provision of those services (e.g., eligibility, regional scope, free or cost-recovery).  While some Affiliates offer the full range of services, others offer specific services, such as digitization training and a self-service scanning lab. 
 
 
 ## Cost
