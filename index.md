@@ -16,7 +16,7 @@ The GSDN helps California cultural heritage institutions create, manage, and sho
     </div>
     <div>
         <h2>Do you need digital collections services?</h2>
-        <p>If your organization is in need of digital collections services, GSDN providers are here to help.</p>
+        <p>If your organization is in need of digital collections services, GSDN service providers are here to help.</p>
         <div class="link-box">
             <a href="contributors">How to request services</a>
         </div>
