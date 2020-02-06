@@ -30,5 +30,5 @@ The GSDN and California Revealed programs provide complementary approaches to as
 
 *   Collections created through California Revealed are harvested by CDL for exposure through Calisphere and DPLA.
 *   GSDN Affiliates are well-situated to advise those libraries in their local area and facilitate participation in California Revealed.
-*   Libraries that previously participated in California Revealed may want to establish ongoing, long-term partnerships with Affiliates beyond the LSTA grant year.
+*   Libraries that participate in California Revealed may additionally opt to partner with Affiliates, to build and manage their digital collections.
 *   The California State Library participates in GSDN governance. 
