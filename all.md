@@ -35,15 +35,6 @@ permalink: /all/
             <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
             <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
         </tr>
-                <tr>
-            <th scope="row"><a href="#CSL">California State Library (California Revealed)</a></th>
-            <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
-            <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
-            <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
-            <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
-            <td>(<img alt="check mark" id="check-mark" src="../assets/check-solid.svg">)</td>
-            <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
-        </tr>
         <tr>
             <th scope="row"><a href="#CSUDH">California State University Dominguez Hills Library</a></th>
             <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
@@ -134,22 +125,6 @@ permalink: /all/
 
 *   No cost
 
-
-<h2 id="CSL">California State Library (California Revealed)</h2>
-
-## Services Offered
-*   Digitization
-*   Metadata creation
-*   Digital asset management/hosting (Islandora)
-*   Preservation
-*   Statewide/National-Level Aggregation (via CDL’s Calisphere and DPLA services)
-*   Training and Consultation
-
-## Eligibility
-*   Available to any non-profit organization in California for collections related to California history
-
-## Costs
-*   No cost
 
 
 <h2 id="CSUDH">California State University Dominguez Hills Library</h2>
