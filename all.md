@@ -55,12 +55,12 @@ permalink: /all/
         </tr>
         <tr>
             <th scope="row"><a href="#LAPL">Los Angeles Public Library</a></th>
-            <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>"
-            <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
             <td></td>
             <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
             <td></td>
-            <td><img alt="check mark" id="check-mark" src="../assets/check-solid.svg"></td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <th scope="row"><a href="#SFPL">San Francisco Public Library</a></th>
@@ -170,10 +170,8 @@ permalink: /all/
 
 ### Services Offered
 
-*   Digitization
-*   Metadata creation
-*   Preservation
-*   Training and Consultation
+*   Metadata consulting
+
 
 ### Eligibility
 
@@ -181,9 +179,7 @@ permalink: /all/
 
 ### Costs
 
-
-*   Digitization services are available to organizations on a cost recovery basis. 
-*   Training and consultation on project planning, collection management, etc. are available at no cost.
+*   No cost; metadata consulting services are available on a limited basis, please contact Los Angeles Public Library for more information.
 
 
 <h2 id="SFPL">San Francisco Public Library</h2>
