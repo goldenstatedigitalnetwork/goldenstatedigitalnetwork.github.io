@@ -282,4 +282,4 @@ permalink: /all/
 *   **Grant funded projects:** Planning and consulting services for these digital project are done at no cost. As part of the grant planning USC will determine the digitization, metadata creation, access and preservation costs. Generally costs associated with digitization, access to collections and preservation are generally covered by the grant.
 *   **Non-grant funded projects:** Services are available to organizations on a cost recovery basis. This includes consultation on project planning, including project costs and project management in addition to digitization and metadata services.
 
-If your institution is in need of digital collections service, we're here to help. <a class="primary-link" href="mailto:gsdn@cdlib.org">Contact us for more information</a>
+<a class="primary-link" href="mailto:gsdn@cdlib.org">Does your institution need digital collections services? Contact us for more information</a>
