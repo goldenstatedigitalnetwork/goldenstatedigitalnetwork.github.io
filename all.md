@@ -7,7 +7,7 @@ permalink: /all/
 <table>
     <thead>
         <tr>
-           <th scope="column">Provider</th>
+           <th scope="column">Service Provider</th>
            <th scope="column">Digitization</th>
            <th scope="column">Metadata Creation</th>
            <th scope="column">Digital Asset Management / Hosting</th>
