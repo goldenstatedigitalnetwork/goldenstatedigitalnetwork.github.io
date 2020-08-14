@@ -14,9 +14,9 @@ Within California, no single organization provides comprehensive, collection lif
 The GSDN directly benefits organizations providing digital collections services through:
 
 <ul>
-<li><strong>Matchmaking and referral pipeline:</strong></li> By gaining a stronger and continually refreshed understanding of each other's services, organizations are better equipped to advise cultural heritage organizations -- and refer where appropriate.
-<li><strong>Service coordination and alignment:</strong></li> The GSDN illuminates where services closely intersect with, complement, or duplicate each other, thereby revealing critical service gaps and opportunities for efficiencies.
-<li><strong>Information sharing:</strong></li> Through greater awareness of peer offerings, service organizations are individually well positioned to share and adhere to existing best practices, and collectively extend and establish standards when needed. When organizations formulate and develop new services, they can do so with an understanding of how they most effectively fit into the broader landscape. 
+<li>**Matchmaking and referral pipeline:**</li> By gaining a stronger and continually refreshed understanding of each other's services, organizations are better equipped to advise cultural heritage organizations -- and refer where appropriate.
+<li>**Service coordination and alignment:**</li> The GSDN illuminates where services closely intersect with, complement, or duplicate each other, thereby revealing critical service gaps and opportunities for efficiencies.
+<li>**Information sharing:**</li> Through greater awareness of peer offerings, service organizations are individually well positioned to share and adhere to existing best practices, and collectively extend and establish standards when needed. When organizations formulate and develop new services, they can do so with an understanding of how they most effectively fit into the broader landscape. 
  </ul>
 
 The GSDN ultimately supports California libraries, archives, museums and other cultural heritage institutions by providing access to a holistic set of services to support the lifecycle management of their collections.
@@ -43,7 +43,7 @@ The [CDL](www.cdlib.org) convenes the GSDN (organizes meetings, maintains commun
 
 
 ## How is the GSDN related to California Revealed?
-[California Revealed]https://californiarevealed.org/ is a California State Library initiative to help California's public libraries, in partnership with other local heritage groups, digitize, preserve, and serve online historically significant Californiana (e.g., books, documents, audiovisual recordings). 
+[California Revealed](https://californiarevealed.org/) is a California State Library initiative to help California's public libraries, in partnership with other local heritage groups, digitize, preserve, and serve online historically significant Californiana (e.g., books, documents, audiovisual recordings). 
  
 California Revealed provides a robust, digitization-to-access approach to assisting libraries and local heritage groups with stewarding their  digital collections. California Revealed intersects with organizations represented within the GSDN in two primary ways:
  
