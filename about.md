@@ -53,3 +53,4 @@ California Revealed provides a robust, digitization-to-access approach to assist
 </ul>
 
 
+Interested in participating in GSDN? <a class="primary-link" href="mailto:gsdn@cdlib.org">Contact us for more information</a>
