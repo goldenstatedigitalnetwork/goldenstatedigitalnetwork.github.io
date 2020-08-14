@@ -96,6 +96,11 @@ permalink: /all/
 
 <h2 id="BPOC">Balboa Park Online Collaborative</h2>
 
+### GSDN Representatives
+*  Nik Honeysett (CEO)
+*  Jack Ludden (Senior Strategist and Innovation Specialist)
+
+
 ### Services Offered
 
 *   Digitization
@@ -111,6 +116,9 @@ permalink: /all/
 
 
 <h2 id="CDL">California Digital Library</h2>
+
+### GSDN Representative
+*  Adrian Turner (Senior Product Manager)
 
 ### Services Offered
 
@@ -128,6 +136,10 @@ permalink: /all/
 
 
 <h2 id="CSUDH">California State University Dominguez Hills Library</h2>
+
+### GSDN Representative
+*  Greg Williams (Director, Archives/Special Collections)
+
 
 ### Services Offered
 
@@ -148,6 +160,10 @@ permalink: /all/
 
 <h2 id="CSUN">California State University Northridge Library</h2>
 
+### GSDN Representative
+*  Steve Kutay (Digital Services Librarian)
+
+
 ### Services Offered
 
 *   Digitization
@@ -167,6 +183,10 @@ permalink: /all/
 
 <h2 id="LAPL">Los Angeles Public Library</h2>
 
+### GSDN Representatives
+*  Ani Boyadjian (Research & Special Collections Manager)
+*  Sung Kim (Librarian)
+
 
 ### Services Offered
 
@@ -183,6 +203,10 @@ permalink: /all/
 
 
 <h2 id="SFPL">San Francisco Public Library</h2>
+
+### GSDN Representatives
+*  Susan Goldstein (City Archivist)
+*  Christina Moretta (Photo Curator & Librarian)
 
 
 ### Services Offered
@@ -204,6 +228,10 @@ permalink: /all/
 
 
 <h2 id="UC-Merced">University of California Merced Library</h2>
+
+### GSDN Representatives
+*  Emily Lin (Head, Digital Curation and Scholarship)
+*  Jerrold Shiroma (University Archivist and Librarian for Special Collections)
 
 
 ### Services Offered
@@ -231,6 +259,8 @@ permalink: /all/
 
 <h2 id="USC">University of Southern California Library</h2>
 
+### GSDN Representative
+*  Deborah Ann Holmes-Wong (Director, Digital Library)
 
 ### Services Offered
 
