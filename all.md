@@ -3,6 +3,9 @@ layout: page
 title: Member Roster and Services
 permalink: /all/
 ---
+
+The GSDN member organizations provide various services, ranging from digitization and metadata creation support, to digital asset management hosting and preservation, to training and consulting. Below is a summary of current service offerings, followed by a more detailed breakdown including representatives, services, eligibility requirements, and cost. 
+
 <!--<h2 id="service-table-heading">Summary of service offerings</h2>-->
 <table>
     <thead>
