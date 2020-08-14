@@ -11,7 +11,7 @@ The Golden State Digital Network (GSDN) is a <strong>collaborative information-s
         <h2>Do you provide digital collections services?</h2>
         <p> If your organization offers digital collections services to assist cultural heritage institutions in California and would like to join a broader community that supports those aims statewide, we'd welcome your participation!</p>
         <div class="link-box">
-            <a href="affiliates">Learn more about participating in GSDN</a>
+            <a href="about">Learn more about participating in GSDN</a>
         </div>
     </div>
     <div>
