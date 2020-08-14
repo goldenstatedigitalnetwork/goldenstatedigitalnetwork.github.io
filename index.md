@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Golden State Digital Network
+title: 
 permalink: /
 ---
 
