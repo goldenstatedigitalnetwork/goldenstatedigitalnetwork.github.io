@@ -14,9 +14,9 @@ Within California, no single organization provides comprehensive, collection lif
 The GSDN directly benefits organizations providing digital collections services through:
 
 <ul>
-<li>**Matchmaking and referral pipeline:**</li> By gaining a stronger and continually refreshed understanding of each other's services, organizations are better equipped to advise cultural heritage organizations -- and refer where appropriate.
-<li>**Service coordination and alignment:**</li> The GSDN illuminates where services closely intersect with, complement, or duplicate each other, thereby revealing critical service gaps and opportunities for efficiencies.
-<li>**Information sharing:**</li> Through greater awareness of peer offerings, service organizations are individually well positioned to share and adhere to existing best practices, and collectively extend and establish standards when needed. When organizations formulate and develop new services, they can do so with an understanding of how they most effectively fit into the broader landscape. 
+<li><strong>Matchmaking and referral pipeline:</strong> By gaining a stronger and continually refreshed understanding of each other's services, organizations are better equipped to advise cultural heritage organizations -- and refer where appropriate.</li>
+<li><strong>Service coordination and alignment:</strong> The GSDN illuminates where services closely intersect with, complement, or duplicate each other, thereby revealing critical service gaps and opportunities for efficiencies.</li>
+<li><strong>Information sharing:</strong> Through greater awareness of peer offerings, service organizations are individually well positioned to share and adhere to existing best practices, and collectively extend and establish standards when needed. When organizations formulate and develop new services, they can do so with an understanding of how they most effectively fit into the broader landscape.</li>  
  </ul>
 
 The GSDN ultimately supports California libraries, archives, museums and other cultural heritage institutions by providing access to a holistic set of services to support the lifecycle management of their collections.
