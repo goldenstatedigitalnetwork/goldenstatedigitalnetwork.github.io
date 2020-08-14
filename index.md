@@ -17,14 +17,14 @@ The Golden State Digital Network (GSDN) is a <strong>collaborative information-s
     <div>
         <h2>Do you need digital collections services?</h2>
         <p>If your institution is in need of digital collections services, GSDN members are here to help. Services offered include:</p>
-        <ol>
+        <ul>
             <li>Digitization</li>
             <li>Metadata creation</li>
             <li>Digital asset management and hosting</li>
             <li>Digital preservation</li>
             <li>Discovery through Calisphere and DPLA</li>
             <li>Training and consulting</li>
-        </ol>
+        </ul>
         
         <div class="link-box">
             <a class="primary-link" href="mailto:gsdn@cdlib.org">Contact us for more information</a>
