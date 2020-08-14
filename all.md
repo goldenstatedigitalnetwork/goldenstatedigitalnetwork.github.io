@@ -94,7 +94,7 @@ permalink: /all/
 
 
 
-<h2 id="BPOC">Balboa Park Online Collaborative</h2>
+<h2 id="BPOC"><a href="https://bpoc.org/">Balboa Park Online Collaborative</a></h2>
 
 ### GSDN Representatives
 *  Nik Honeysett (CEO)
@@ -115,7 +115,7 @@ permalink: /all/
 *   Digitization and digital asset management/hosting services are provided on a cost recovery basis
 
 
-<h2 id="CDL">California Digital Library</h2>
+<h2 id="CDL"><a href="https://cdlib.org/services/pad/calisphere/">California Digital Library</a></h2>
 
 ### GSDN Representative
 *  Adrian Turner (Senior Product Manager)
@@ -135,7 +135,7 @@ permalink: /all/
 
 
 
-<h2 id="CSUDH">California State University Dominguez Hills Library</h2>
+<h2 id="CSUDH"><a href="http://digitalcollections.archives.csudh.edu/">California State University Dominguez Hills Library</a></h2>
 
 ### GSDN Representative
 *  Greg Williams (Director, Archives/Special Collections)
@@ -158,7 +158,7 @@ permalink: /all/
 *   Digitization services are available for grant funded projects or cost recovery basis
 
 
-<h2 id="CSUN">California State University Northridge Library</h2>
+<h2 id="CSUN"><a href="https://digital-library.csun.edu/">California State University Northridge Library</a></h2>
 
 ### GSDN Representative
 *  Steve Kutay (Digital Services Librarian)
@@ -181,7 +181,7 @@ permalink: /all/
 
 *   Digitization and metadata services, with digital asset management/hosting, are available for grant funded projects or on a cost recovery basis. Digital preservation services are offered with asset management/hosting at no cost. Training and consultation available at no cost
 
-<h2 id="LAPL">Los Angeles Public Library</h2>
+<h2 id="LAPL"><a href="https://tessa.lapl.org/">Los Angeles Public Library</a></h2>
 
 ### GSDN Representatives
 *  Ani Boyadjian (Research & Special Collections Manager)
@@ -202,7 +202,7 @@ permalink: /all/
 *   No cost; metadata consulting services are available on a limited basis, please contact Los Angeles Public Library for more information.
 
 
-<h2 id="SFPL">San Francisco Public Library</h2>
+<h2 id="SFPL"><a href="https://sfpl.org/locations/main-library/sf-history-center/digital-collections">San Francisco Public Library</a></h2>
 
 ### GSDN Representatives
 *  Susan Goldstein (City Archivist)
@@ -227,7 +227,7 @@ permalink: /all/
 *   No cost
 
 
-<h2 id="UC-Merced">University of California Merced Library</h2>
+<h2 id="UC-Merced"><a href="http://library.ucmerced.edu/digital-curation-and-scholarship">University of California Merced Library</a></h2>
 
 ### GSDN Representatives
 *  Emily Lin (Head, Digital Curation and Scholarship)
@@ -257,7 +257,7 @@ permalink: /all/
 *   **Non-grant funded projects:** digitization services are available on a cost recovery basis.
 
 
-<h2 id="USC">University of Southern California Library</h2>
+<h2 id="USC"><a href="http://digitallibrary.usc.edu/">University of Southern California Library</a></h2>
 
 ### GSDN Representative
 *  Deborah Ann Holmes-Wong (Director, Digital Library)
