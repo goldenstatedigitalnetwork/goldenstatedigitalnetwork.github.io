@@ -21,8 +21,8 @@ Proposed agenda items:
 * Website update
 * Round-robin update on recent partnerships we've established, and any new content/collections that we're developing through those partnerships. Highlight where we're coordinating on the provision of our services
 * California Library Association 2021 May conference: 
-- [Interest group proposal](https://www.cla-net.org/page/363): local history, special collections, and archives
-- Session highlighting services offered by organizations represented in GSDN?
+ - [Interest group proposal](https://www.cla-net.org/page/363): local history, special collections, and archives
+ - Session highlighting services offered by organizations represented in GSDN?
 
 
 
