@@ -17,7 +17,7 @@ Tuesday, October 20th, 1:00-2:00pm (Pacific).
 Zoom information forthcoming.
 
 Proposed agenda items:
-* Welcome to representatives from organizations interessted in participating in GSDN:
+* Welcome to representatives from organizations interested in participating in GSDN:
   - [Southern California Library Cooperative (SCLC)](https://socallibraries.org/)
   - [Statewide California Electronic Library Consortium (SCELC)](https://www.scelc.org/)
 * Website update
