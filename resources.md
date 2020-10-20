@@ -12,7 +12,7 @@ permalink: /resources/
 ## Next quarterly meeting agenda 
 Tuesday, October 20th, 1:00-2:00pm (Pacific).
 
-Running agenda and meeting notes available on [Google Drive workspace](https://docs.google.com/document/d/1jA8H-xEaekfscNz47JGdwaV45mUzmbg-vcl9JbqGmhc/edit?usp=sharing) (restricted to members)
+Zoom info, running agenda, and meeting notes available in the GSDN [Google Drive workspace](https://docs.google.com/document/d/1jA8H-xEaekfscNz47JGdwaV45mUzmbg-vcl9JbqGmhc/edit?usp=sharing) (restricted to members)
 
 Proposed agenda items:
 * Introductions and welcome to representatives from organizations interested in participating in GSDN:
