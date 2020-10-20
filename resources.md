@@ -8,11 +8,11 @@ permalink: /resources/
 ## Mailing list for GSDN members
 [GSDN-ALL-L@listserv.ucop.edu](mailto:GSDN-ALL-L@listserv.ucop.edu) (restricted to members)
 
-## Meeting notes
-Available on [Google Drive workspace](https://drive.google.com/drive/folders/0B0u7vIrviMsaMkY3T2pXZGZsYms) (restricted to members)
 
 ## Next quarterly meeting agenda 
 Tuesday, October 20th, 1:00-2:00pm (Pacific).
+
+Running agenda and meeting notes available on [Google Drive workspace](https://docs.google.com/document/d/1jA8H-xEaekfscNz47JGdwaV45mUzmbg-vcl9JbqGmhc/edit?usp=sharing) (restricted to members)
 
 Proposed agenda items:
 * Introductions and welcome to representatives from organizations interested in participating in GSDN:
