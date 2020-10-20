@@ -18,7 +18,7 @@ Proposed agenda items:
 * Introductions and welcome to representatives from organizations interested in participating in GSDN:
   - [Southern California Library Cooperative (SCLC)](https://socallibraries.org/)
   - [Statewide California Electronic Library Consortium (SCELC)](https://www.scelc.org/)
-* Website update [https://goldenstatedigitalnetwork.org](https://goldenstatedigitalnetwork.org)
+* Website update ([https://goldenstatedigitalnetwork.org](https://goldenstatedigitalnetwork.org))
 * Updating standing quarterly meeting invite: please update [roster of staff members](https://docs.google.com/document/d/16_UgzEIIMVAXrefnaag1BqkKVJPmmm5W6rcMDH1sLxc/edit?usp=sharing) to include on meeting invites.
 * Round-robin update on recent partnerships we've established, and any new content/collections that we're developing through those partnerships. Highlight where we're coordinating on the provision of our services
   - Balboa Park Online Collaborative
